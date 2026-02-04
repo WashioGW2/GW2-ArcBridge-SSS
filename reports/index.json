@@ -1,0 +1,35 @@
+[
+  {
+    "id": "20260204-200314-rjal",
+    "title": "V A X O U H H H",
+    "commanders": [
+      "V A X O U H H H"
+    ],
+    "dateStart": "2026-02-04T19:03:14.000Z",
+    "dateEnd": "2026-02-04T20:43:03.000Z",
+    "dateLabel": "04/02/2026 20:03:14 - 04/02/2026 21:43:03",
+    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260204-200314-rjal",
+    "summary": {
+      "borderlandsPct": 0.85,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 26
+    }
+  }
+]
