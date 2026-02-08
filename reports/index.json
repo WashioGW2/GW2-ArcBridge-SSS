@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260208-201531-jwv2",
+    "title": "Mindbender Disco",
+    "commanders": [
+      "Mindbender Disco"
+    ],
+    "dateStart": "2026-02-08T19:15:31.000Z",
+    "dateEnd": "2026-02-08T20:44:35.000Z",
+    "dateLabel": "08/02/2026 20:15:31 - 08/02/2026 21:44:35",
+    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260208-201531-jwv2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 54
+    }
+  },
+  {
     "id": "20260204-200314-rjal",
     "title": "V A X O U H H H",
     "commanders": [
