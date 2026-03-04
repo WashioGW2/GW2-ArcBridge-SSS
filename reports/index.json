@@ -1,119 +1,154 @@
-[
-  {
-    "id": "20260218-201448-qxlq",
-    "title": "V A X O U H H H",
-    "commanders": [
-      "V A X O U H H H"
-    ],
-    "dateStart": "2026-02-18T19:14:48.000Z",
-    "dateEnd": "2026-02-18T20:57:47.000Z",
-    "dateLabel": "18/02/2026 20:14:48 - 18/02/2026 21:57:47",
-    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260218-201448-qxlq",
-    "summary": {
-      "borderlandsPct": 0.37037037037037035,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 17,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 45
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260211-200124-4f7c",
-    "title": "V A X O U H H H",
-    "commanders": [
-      "V A X O U H H H"
-    ],
-    "dateStart": "2026-02-11T19:01:24.000Z",
-    "dateEnd": "2026-02-11T20:55:06.000Z",
-    "dateLabel": "11/02/2026 20:01:24 - 11/02/2026 21:55:06",
-    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260211-200124-4f7c",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 24,
-          "color": "#3b82f6"
-        }
+  "entries": [
+    {
+      "id": "20260304-200210-kg8u",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 57
-    }
-  },
-  {
-    "id": "20260208-201531-jwv2",
-    "title": "Mindbender Disco",
-    "commanders": [
-      "Mindbender Disco"
-    ],
-    "dateStart": "2026-02-08T19:15:31.000Z",
-    "dateEnd": "2026-02-08T20:44:35.000Z",
-    "dateLabel": "08/02/2026 20:15:31 - 08/02/2026 21:44:35",
-    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260208-201531-jwv2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-04T19:02:10.000Z",
+      "dateEnd": "2026-03-04T20:48:52.000Z",
+      "dateLabel": "04/03/2026 20:02:10 - 04/03/2026 21:48:52",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260304-200210-kg8u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260218-201448-qxlq",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 54
-    }
-  },
-  {
-    "id": "20260204-200314-rjal",
-    "title": "V A X O U H H H",
-    "commanders": [
-      "V A X O U H H H"
-    ],
-    "dateStart": "2026-02-04T19:03:14.000Z",
-    "dateEnd": "2026-02-04T20:43:03.000Z",
-    "dateLabel": "04/02/2026 20:03:14 - 04/02/2026 21:43:03",
-    "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260204-200314-rjal",
-    "summary": {
-      "borderlandsPct": 0.85,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 13,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-18T19:14:48.000Z",
+      "dateEnd": "2026-02-18T20:57:47.000Z",
+      "dateLabel": "18/02/2026 20:14:48 - 18/02/2026 21:57:47",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260218-201448-qxlq",
+      "summary": {
+        "borderlandsPct": 0.37037037037037035,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260211-200124-4f7c",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 26
+      "dateStart": "2026-02-11T19:01:24.000Z",
+      "dateEnd": "2026-02-11T20:55:06.000Z",
+      "dateLabel": "11/02/2026 20:01:24 - 11/02/2026 21:55:06",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260211-200124-4f7c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 57
+      }
+    },
+    {
+      "id": "20260208-201531-jwv2",
+      "title": "Mindbender Disco",
+      "commanders": [
+        "Mindbender Disco"
+      ],
+      "dateStart": "2026-02-08T19:15:31.000Z",
+      "dateEnd": "2026-02-08T20:44:35.000Z",
+      "dateLabel": "08/02/2026 20:15:31 - 08/02/2026 21:44:35",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260208-201531-jwv2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 54
+      }
+    },
+    {
+      "id": "20260204-200314-rjal",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
+      ],
+      "dateStart": "2026-02-04T19:03:14.000Z",
+      "dateEnd": "2026-02-04T20:43:03.000Z",
+      "dateLabel": "04/02/2026 20:03:14 - 04/02/2026 21:43:03",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260204-200314-rjal",
+      "summary": {
+        "borderlandsPct": 0.85,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 26
+      }
     }
-  }
-]
+  ]
+}
