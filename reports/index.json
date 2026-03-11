@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260311-200751-m3r9",
+      "title": "V A X O U H, V A X O U H H H",
+      "commanders": [
+        "V A X O U H",
+        "V A X O U H H H"
+      ],
+      "dateStart": "2026-03-11T19:07:51.000Z",
+      "dateEnd": "2026-03-11T20:30:36.000Z",
+      "dateLabel": "11/03/2026 20:07:51 - 11/03/2026 21:30:36",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260311-200751-m3r9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260304-200210-kg8u",
       "title": "V A X O U H H H",
       "commanders": [
