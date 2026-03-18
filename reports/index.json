@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260318-200137-qhun",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
+      ],
+      "dateStart": "2026-03-18T19:01:37.000Z",
+      "dateEnd": "2026-03-18T20:59:21.000Z",
+      "dateLabel": "18/03/2026 20:01:37 - 18/03/2026 21:59:21",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260318-200137-qhun",
+      "summary": {
+        "borderlandsPct": 0.6071428571428571,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260315-205901-vtta",
       "title": "V A X O U H H H",
       "commanders": [
