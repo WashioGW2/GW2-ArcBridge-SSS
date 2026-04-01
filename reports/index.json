@@ -1,10 +1,45 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260401-202652-h4ff",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
+      ],
+      "dateStart": "2026-04-01T18:26:52.000Z",
+      "dateEnd": "2026-04-01T20:01:22.000Z",
+      "dateLabel": "01/04/2026 20:26:52 - 01/04/2026 22:01:22",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge-SSS/?report=20260401-202652-h4ff",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260325-200741-lcq0",
       "title": "V A X O U H H H",
